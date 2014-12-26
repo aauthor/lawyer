@@ -21,7 +21,7 @@ body > *:nth-child(odd) blockquote {
 }
 
 body > *:nth-child(odd) div a {
-    color: #46e;
+    color: #79f;
 }
 
 body > *:nth-child(odd) div a:hover {
