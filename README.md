@@ -1,5 +1,5 @@
-Contrast
-========
+Lawyer
+======
 
 Lightweight Jekyll theme
 
