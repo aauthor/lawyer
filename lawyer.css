@@ -3,6 +3,10 @@ body > * {
     padding-left: calc(33% - 6em);
 }
 
+article footer a {
+    border-width: 2px;
+}
+
 body > *:nth-child(odd) {
     background: #222;
     color: white;
@@ -17,5 +21,18 @@ body > *:nth-child(odd) blockquote {
 }
 
 body > *:nth-child(odd) div a {
-    color: #fc5;
+    color: #46e;
+}
+
+body > *:nth-child(odd) div a:hover {
+    color: gray;
+}
+
+body > *:nth-child(odd) footer a {
+    border-color: white;
+}
+
+body > *:nth-child(odd) footer a:hover {
+    background-color: white;
+    color: black;
 }
